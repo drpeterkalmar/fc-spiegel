@@ -1,0 +1,1 @@
+{"name": "Finanz-Cockpit", "short_name": "Cockpit", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#0f1622", "theme_color": "#0f1622", "icons": [{"src": "icon.png", "sizes": "180x180", "type": "image/png"}]}
